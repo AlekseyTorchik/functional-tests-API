@@ -10,7 +10,7 @@ For the installation you need:
 - Win ![OS](https://icons.iconarchive.com/icons/kearone/comicons/16/windows-symbol-icon.png)
   / Mac ![OS](https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Apple-multicolor-icon.png)
   / Linux ![OS](https://icons.iconarchive.com/icons/tatice/operating-systems/16/Linux-icon.png)
-- Python ![](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png)
+- Python 3.*![](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png)
 - Git ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/git-icon.png)
 
 
